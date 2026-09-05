@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Shahbaz 👋
 
-<!--
-**shahbazalvi5656/shahbazalvi5656** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a BCA student who is learning software development and building projects to improve my skills.
 
-Here are some ideas to get you started:
+Right now, I'm mainly working with **Flutter and Python**. I'm also learning **DSA** and trying to get better at problem solving and writing clean code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm working on
+
+- Learning Python and DSA
+- Building apps with Flutter
+- Working on real-world projects
+- Exploring AI and modern software development
+
+### Tech I'm Learning
+
+Python • Dart • Flutter • Git • GitHub
+
+### A little about me
+
+I enjoy learning by building things rather than just watching tutorials.  
+I'm currently focused on improving my programming fundamentals and becoming a better software developer.
+
+Thanks for visiting my profile! 
