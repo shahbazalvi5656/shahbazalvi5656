@@ -1,4 +1,4 @@
-# Hi, I'm Shahbaz 👋
+# Hi, I'm Shahbaz 
 
 I'm a BCA student who is learning software development and building projects to improve my skills.
 
